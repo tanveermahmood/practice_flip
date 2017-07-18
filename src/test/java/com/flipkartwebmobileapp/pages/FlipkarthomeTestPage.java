@@ -18,5 +18,9 @@ public class FlipkarthomeTestPage extends WebDriverBaseTestPage<WebDriverTestPag
 	public QAFWebElement getFlipkartHomepageBtnManueList() {
 		return flipkartHomepageBtnManueList;
 	}
+public void f()
+{
+System.out.println("......");
+}
 
 }
